@@ -17,38 +17,40 @@
             line-height: 1.6;
             overflow-x: hidden; /* 防止粒子超出横向滚动 */
         }
-        /* 背景图容器 */
+        /* 背景图容器 - 改用Hugo动态路径 */
         .bg-container {
             position: fixed;
             top: 0;
             left: 0;
             width: 100vw;
             height: 100vh;
-            z-index: -2; /* 放在星星下面，不遮挡星星 */
-            background: url("https://cellrin050-beep.github.io/CreateWebcellrin.github.io/images/background.jpg") no-repeat center center;
+            z-index: -2;
+            background: url("{{ .Site.BaseURL }}images/background.jpg") no-repeat center center;
             background-size: cover;
             background-attachment: fixed;
             pointer-events: none;
-        }
-        /* 星星粒子画布（层级在背景图和内容之间） */
+}
+
+        /* 星星粒子画布 */
         #stars-canvas {
             position: fixed;
             top: 0;
             left: 0;
             width: 100vw;
             height: 100vh;
-            z-index: -1; /* 不遮挡内容，只在背景上显示 */
-            pointer-events: none; /* 不影响点击导航/链接 */
+            z-index: -1;
+            pointer-events: none;
         }
+        /* Banner样式优化 - 适配移动端 */
         .banner {
-            width: 100%;
-            max-width: 1200px;
-            margin: 10px auto 0;
+            width: 100%; /* 去掉max-width，手机上占满屏幕 */
+            margin: 0 auto; /* 移除top的10px空白 */
         }
         .banner img {
             width: 100%;
             height: auto;
             border-radius: 8px;
+            display: block; /* 去掉图片下方默认空白 */
         }
         .nav {
             background: #b5bef3;
@@ -61,10 +63,11 @@
             text-decoration: none;
             margin: 0 15px;
             font-size: 18px;
+            transition: all 0.2s ease; /* 加过渡动画更丝滑 */
         }
         .nav a:hover {
             color: #5a67d8;
-            transform: scale(1.05); /* 导航hover轻微放大 */
+            transform: scale(1.05);
         }
         .main {
             max-width: 800px;
@@ -72,6 +75,7 @@
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+           
         }
         .main h1 {
             color: #ff4757;
@@ -80,6 +84,17 @@
         }
         .main p {
             margin-bottom: 15px;
+        }
+        /* 移动端适配 - 导航字体缩小，避免换行 */
+        @media (max-width: 768px) {
+            .nav a {
+                font-size: 16px;
+                margin: 0 8px;
+            }
+            .main {
+                margin: 20px 10px;
+                padding: 15px;
+            }
         }
     </style>
 </head>
@@ -90,28 +105,28 @@
     <!-- 星星粒子画布 -->
     <canvas id="stars-canvas"></canvas>
     
+    <!-- Banner图片 - 改用Hugo动态路径 -->
     <div class="banner">
-<img src="https://cellrin050-beep.github.io/CreateWebcellrin.github.io/images/banner.jpg" alt="博客banner">
-
-       </div>
+        <img src="{{ .Site.BaseURL }}images/banner.jpg" alt="博客banner">
+    </div>
+    
+    <!-- 导航链接 - 保持动态路径 -->
     <div class="nav">
         <a href="{{ .Site.BaseURL }}">首页</a>
         <a href="{{ .Site.BaseURL }}diary/">日记</a>
         <a href="{{ .Site.BaseURL }}art/">绘图</a>
         <a href="{{ .Site.BaseURL }}about/">关于我</a>
-       
     </div>
+    
     <div class="main">
         {{ block "main" . }}{{ end }}
     </div>
 
-    <!-- 星星粒子动态效果脚本 -->
+    <!-- 星星粒子脚本（不变，保留你的动态效果） -->
     <script>
-        // 获取画布和上下文
         const canvas = document.getElementById('stars-canvas');
         const ctx = canvas.getContext('2d');
         
-        // 设置画布尺寸为窗口大小
         function resizeCanvas() {
             canvas.width = window.innerWidth;
             canvas.height = window.innerHeight;
@@ -119,52 +134,36 @@
         resizeCanvas();
         window.addEventListener('resize', resizeCanvas);
         
-        // 星星类
         class Star {
             constructor() {
-                // 随机位置
                 this.x = Math.random() * canvas.width;
                 this.y = Math.random() * canvas.height;
-                // 随机大小（2-8px）
                 this.size = Math.random() * 6 + 2;
-                // 随机飘落速度（1-3px/帧）
                 this.speedY = Math.random() * 2 + 1;
-                // 随机横向偏移（-0.5到0.5）
                 this.speedX = Math.random() - 0.5;
-                // 随机颜色（五彩星星）
                 this.colors = [
                     '#ff6b81', '#ff8fa3', '#ffc2d1', '#ff4757', 
                     '#70e1f5', '#ffd166', '#06d6a0', '#118ab2'
                 ];
                 this.color = this.colors[Math.floor(Math.random() * this.colors.length)];
-                // 随机透明度（0.6-1）
                 this.alpha = Math.random() * 0.4 + 0.6;
             }
             
-            // 更新位置
             update() {
                 this.y += this.speedY;
                 this.x += this.speedX;
-                
-                // 星星落到底部后重置到顶部
                 if (this.y > canvas.height) {
                     this.y = 0 - this.size;
                     this.x = Math.random() * canvas.width;
                 }
             }
             
-            // 绘制星星（画五角星）
             draw() {
                 ctx.save();
                 ctx.globalAlpha = this.alpha;
                 ctx.fillStyle = this.color;
-                
-                // 移动坐标系到星星中心
                 ctx.translate(this.x, this.y);
-                // 旋转星星（随机初始角度）
                 ctx.rotate(Math.random() * Math.PI * 2);
-                
-                // 绘制五角星
                 ctx.beginPath();
                 for (let i = 0; i < 5; i++) {
                     ctx.lineTo(
@@ -182,28 +181,20 @@
             }
         }
         
-        // 创建星星数组（数量可调整，建议50-150）
         const stars = [];
-        const starCount = 80; // 星星数量，越多越密
+        const starCount = 80;
         for (let i = 0; i < starCount; i++) {
             stars.push(new Star());
         }
         
-        // 动画循环
         function animate() {
-            // 清空画布（透明背景，不遮挡背景图）
             ctx.clearRect(0, 0, canvas.width, canvas.height);
-            
-            // 更新并绘制所有星星
             stars.forEach(star => {
                 star.update();
                 star.draw();
             });
-            
             requestAnimationFrame(animate);
         }
-        
-        // 启动动画
         animate();
     </script>
 </body>

@@ -1,0 +1,15 @@
+# 核心基础配置（决定博客域名和语言）
+baseURL = "https://cellrin050-beep.github.io/CreateWebcellrin.github.io/"
+languageCode = "zh-CN"  # 中文显示适配
+title = "我的博客"       # 博客标题
+
+# 目录映射（Hugo默认路径，确保能找到日记/图片/模板）
+contentDir = "content"   # 日记文章存放目录
+staticDir = "static"     # 图片等静态资源存放目录
+publishDir = "public"    # 生成的博客文件存放目录
+layoutsDir = "layouts"   # 模板目录（如有自定义模板则生效）
+
+# 常规功能兼容配置（无markup，纯基础兼容）
+summaryLength = 70       # 文章摘要长度（默认值，兼容列表页）
+defaultContentLanguage = "zh"  # 默认中文解析
+enableEmoji = true       # 兼容表情符号（可选，不想要可删掉）

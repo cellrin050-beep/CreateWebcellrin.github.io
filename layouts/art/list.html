@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div style="max-width: 1000px; margin: 0 auto; padding: 0 20px;">
+  <h1 style="color: #FCA7CF; text-align: center; margin: 40px 0;">我的绘图</h1>
+  
+  <!-- 绘图列表：网格布局，适配缩略图 -->
+  <div class="art-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 30px;">
+    {{ range .Pages }}
+    <div class="art-item" style="padding: 20px; border: 1px solid #b5bef3; border-radius: 8px; display: flex; flex-direction: column; gap: 15px;">
+      
+      <!-- 封面缩略图（等比例缩放） -->
+      {{ if .Params.cover }}
+      <div class="art-cover" style="width: 100%; height: 200px; overflow: hidden; border-radius: 6px;">
+        <img 
+          src="{{ .Params.cover | absURL }}" 
+          alt="{{ .Title }}的封面图"
+          style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease;"
+          onmouseover="this.style.transform='scale(1.05)'"
+          onmouseout="this.style.transform='scale(1)'"
+        >
+      </div>
+      {{ end }}
+
+      <!-- 文章标题和时间 -->
+      <h2 style="color: #e63946; margin: 0; font-size: 18px;">{{ .Title }}</h2>
+      <p style="color: #999; margin: 0; font-size: 14px;">发布于：{{ .Date.Format "2006-01-02" }}</p>
+      
+      <!-- 查看详情按钮（靠底显示） -->
+      <a href="{{ .Permalink }}" style="background-color: #b5bef3; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none; text-align: center; margin-top: auto;">
+        查看详情 →
+      </a>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -10,40 +10,38 @@ permissions:
   pages: write
   id-token: write
 
-# 只保留最新的部署记录
 concurrency:
   group: "pages"
   cancel-in-progress: true
 
 jobs:
-  # 构建 Hugo 网站
   build:
-- name: Debug public folder
-  run: |
-    echo "Checking public folder..."
-    ls -l ./public
-    head -n 5 ./public/index.html
     runs-on: ubuntu-latest
-- name: List public files
-  run: ls -l ./public
-    steps:
+steps:
       # 拉取仓库代码
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          submodules: true  # 拉取主题子模块（如果用了Hugo主题）
-          fetch-depth: 0    # 拉取所有提交历史
+          submodules: true
+          fetch-depth: 0
 
-      # 安装 Hugo（适配最新版本）
+      # 安装 Hugo
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "latest"
-          extended: true  # 启用扩展版（支持SCSS等）
+          extended: true
 
-      # 构建 Hugo 网站（生成 public 文件夹）
+      # 构建 Hugo 网站
       - name: Build
         run: hugo --minify
+
+      # Debug public folder
+      - name: Debug public folder
+        run: |
+          echo "Checking public folder..."
+          ls -l ./public
+          head -n 5 ./public/index.html
 
       # 上传构建产物
       - name: Upload artifact
@@ -51,13 +49,12 @@ jobs:
         with:
           path: ./public
 
-  # 部署到 GitHub Pages
   deploy:
+    needs: build
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

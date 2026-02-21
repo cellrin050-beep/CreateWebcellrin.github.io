@@ -1,6 +1,6 @@
 ---
-title:"更新日志"
-date2026-2-21
+title: "更新日志"
+date: 2026-2-21
 cover: "/CreateWebcellrin.github.io/images/og-image.png"
 ---
 

@@ -1,5 +1,5 @@
 # 核心基础配置（决定博客域名和语言）
-baseURL = "https://cellrin050-beep.github.io/CreateWebcellrin.github.io/"
+baseURL = "https://www.cellrin.xyz/"
 languageCode = "zh-CN"  # 中文显示适配
 title = "我的博客"       # 博客标题
 

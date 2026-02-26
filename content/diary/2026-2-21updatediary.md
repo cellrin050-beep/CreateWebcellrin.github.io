@@ -1,7 +1,7 @@
 ---
 title: "更新日志"
 date: 2026-02-21
-cover: "/CreateWebcellrin.github.io/images/og-image.png"
+cover: "/images/og-image.png"
 ---
 
 # 修复一些已知问题
@@ -10,4 +10,4 @@ cover: "/CreateWebcellrin.github.io/images/og-image.png"
 2.再再再次修改workflows（超烦人）
 3.修复部分文件冲突
 
-![日记配图](/CreateWebcellrin.github.io/images/og-image.png)
+![日记配图](/images/og-image.png)

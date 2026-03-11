@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: CreateWebcellrin.github.io
+  repo: cellrin050-beep/CreateWebcellrin.github.io
   branch: main
 
 media_folder: "static/images"

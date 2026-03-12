@@ -11,16 +11,8 @@ collections:
     label: "Posts"
     folder: "content/posts"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
-      - label: "标题"
-        name: "title"
-        widget: "string"
-
-      - label: "日期"
-        name: "date"
-        widget: "datetime"
-
-      - label: "正文"
-        name: "body"
-        widget: "markdown"
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }

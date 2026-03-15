@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div style="max-width: 1000px; margin: 0 auto; padding: 0 20px;">
-  <h1 style="color: #FCA7CF; text-align: center;">{{ .Title }}</h1>
+  <h1 style="color: #FCA7CF; text-align: center; margin-top:0;">{{ .Title }}</h1>
   <p style="text-align: center; color: #999; margin: -10px 0 30px;">
     发布于：{{ .Date.Format "2006-01-02" }}
   </p>
@@ -10,7 +10,7 @@
    {{ .Content | safeHTML }}
 </div>
 
-  <div style="margin-top: 40px; text-align: center;"style="background-color: #b5bef3; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none;">
+  <div style="margin-top: 40px; text-align: center; background-color: #b5bef3; color: white; padding: 8px 16px; border-radius: 4px; text-decoration: none;">
    
  </div>
   <a href="{{ .Site.BaseURL }}art/" ...>← 返回绘图列表

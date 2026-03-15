@@ -151,6 +151,12 @@ html, body {
         <a href="{{ .Site.BaseURL }}art/">绘图</a>
         <a href="{{ .Site.BaseURL }}about/">关于我</a>
     </div>
+
+<p>
+👀 总访问量: <span id="busuanzi_value_site_pv"></span>
+|
+👤 总访客数: <span id="busuanzi_value_site_uv"></span>
+</p>
     
     <div class="main">
         {{ block "main" . }}{{ end }}
@@ -231,4 +237,6 @@ html, body {
         }
         animate();
     </script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
 </body>

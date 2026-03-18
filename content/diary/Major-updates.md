@@ -1,7 +1,7 @@
 ---
 title: "重大更新！"
 date: 2026-02-26
-cover: ![](/images/albedo.jpg)  # 封面图路径
+cover: "/images/albedo.jpeg" # 封面图路径
 ---
 
 ## cellrin.xyz域名更新！

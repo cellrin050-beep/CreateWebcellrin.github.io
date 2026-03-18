@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>绘图 on 我的博客</title>
-    <link>http://localhost:1313/art/</link>
+    <link>https://www.cellrin.xyz/art/</link>
     <description>Recent content in 绘图 on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
     <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/art/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.cellrin.xyz/art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>看板娘绘制过程</title>
-      <link>http://localhost:1313/art/artsteps/</link>
+      <link>https://www.cellrin.xyz/art/artsteps/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/artsteps/</guid>
-      <description>&lt;h2 id=&#34;过程&#34;&gt;过程&lt;/h2&gt;&#xA;&lt;p&gt;过程&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/steps.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://www.cellrin.xyz/art/artsteps/</guid>
+      <description>&lt;h2 id=&#34;过程&#34;&gt;过程&lt;/h2&gt;&#xA;&lt;p&gt;过程&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/steps.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>摸鱼</title>
-      <link>http://localhost:1313/art/test0/</link>
+      <link>https://www.cellrin.xyz/art/test0/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/art/test0/</guid>
-      <description>&lt;h2 id=&#34;摸鱼&#34;&gt;摸鱼&lt;/h2&gt;&#xA;&lt;p&gt;摸鱼作品，顺便测试网页&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/idea8.jpg&#34; alt=&#34;配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://www.cellrin.xyz/art/test0/</guid>
+      <description>&lt;h2 id=&#34;摸鱼&#34;&gt;摸鱼&lt;/h2&gt;&#xA;&lt;p&gt;摸鱼作品，顺便测试网页&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/idea8.jpg&#34; alt=&#34;配图&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

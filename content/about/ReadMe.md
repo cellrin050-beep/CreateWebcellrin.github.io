@@ -6,6 +6,8 @@ draft: false
 
 # 邮箱
 
-cellrin050@gmail.com
+createweb.cell@outlook.com
+
+如果你想给我写一封信的话
 
 联系请署名，谢谢

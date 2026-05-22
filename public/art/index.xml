@@ -2,25 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>绘图 on 我的博客</title>
-    <link>https://www.cellrin.xyz/art/</link>
+    <link>http://localhost:1313/art/</link>
     <description>Recent content in 绘图 on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 01 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://www.cellrin.xyz/art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kilian</title>
+      <link>http://localhost:1313/art/2026-5-14/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/art/2026-5-14/</guid>
+      <description>&lt;h2 id=&#34;kilian&#34;&gt;kilian&lt;/h2&gt;&#xA;&lt;p&gt;捆绑p&#xA;变态。。。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kilian%5E%5E.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>物体</title>
+      <link>http://localhost:1313/art/%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%91%B8%E9%B1%BC/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/art/%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%91%B8%E9%B1%BC/</guid>
+      <description>&lt;h2 id=&#34;摸鱼&#34;&gt;摸鱼&lt;/h2&gt;&#xA;&lt;p&gt;这次是真的摸鱼，花了低于20分钟&lt;/p&gt;&#xA;&lt;p&gt;没有原型，只有即兴&lt;/p&gt;&#xA;&lt;p&gt;我希望我能越来越喜欢这样的练习，我能感觉到技力的提升&lt;/p&gt;&#xA;&lt;p&gt;……&lt;/p&gt;&#xA;&lt;p&gt;非说原型，也许就是内心的直觉——具象化&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/%E7%9C%9F%E6%91%B8%E9%B1%BC.png&#34; alt=&#34;配图&#34;&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>看板娘绘制过程</title>
-      <link>https://www.cellrin.xyz/art/artsteps/</link>
+      <link>http://localhost:1313/art/artsteps/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/art/artsteps/</guid>
-      <description>&lt;h2 id=&#34;过程&#34;&gt;过程&lt;/h2&gt;&#xA;&lt;p&gt;过程&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/steps.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/art/artsteps/</guid>
+      <description>&lt;h2 id=&#34;过程&#34;&gt;过程&lt;/h2&gt;&#xA;&lt;p&gt;过程&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/steps.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>摸鱼</title>
-      <link>https://www.cellrin.xyz/art/test0/</link>
+      <link>http://localhost:1313/art/test0/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/art/test0/</guid>
-      <description>&lt;h2 id=&#34;摸鱼&#34;&gt;摸鱼&lt;/h2&gt;&#xA;&lt;p&gt;摸鱼作品，顺便测试网页&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/idea8.jpg&#34; alt=&#34;配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/art/test0/</guid>
+      <description>&lt;h2 id=&#34;摸鱼&#34;&gt;摸鱼&lt;/h2&gt;&#xA;&lt;p&gt;摸鱼作品，顺便测试网页&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/idea8.jpg&#34; alt=&#34;配图&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

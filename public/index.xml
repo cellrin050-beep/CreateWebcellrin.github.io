@@ -2,136 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>首页 on 我的博客</title>
-    <link>https://www.cellrin.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in 首页 on 我的博客</description>
     <generator>Hugo</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 15 Mar 2026 14:52:00 +0800</lastBuildDate>
-    <atom:link href="https://www.cellrin.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>kilian</title>
+      <link>http://localhost:1313/art/2026-5-14/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/art/2026-5-14/</guid>
+      <description>&lt;h2 id=&#34;kilian&#34;&gt;kilian&lt;/h2&gt;&#xA;&lt;p&gt;捆绑p&#xA;变态。。。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/kilian%5E%5E.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>世界上最牛逼的白毛控</title>
+      <link>http://localhost:1313/diary/2026-5-14/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diary/2026-5-14/</guid>
+      <description>&lt;p&gt;这辈子就是被白毛冷脸男害了&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>回归</title>
+      <link>http://localhost:1313/diary/2026-4-25/</link>
+      <pubDate>Sat, 25 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diary/2026-4-25/</guid>
+      <description>&lt;h2 id=&#34;一个月以上没有更新了呢差一点整个4月都没有风声了&#34;&gt;一个月以上没有更新了呢，差一点整个4月都没有风声了。&lt;/h2&gt;&#xA;&lt;p&gt;这个月发生的事也蛮多的，我会持续更新&lt;/p&gt;&#xA;&lt;p&gt;水一下&lt;/p&gt;&#xA;&lt;p&gt;我可能要给网站加一些新的功能&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>无题</title>
+      <link>http://localhost:1313/diary/%E6%97%A0%E9%A2%98/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diary/%E6%97%A0%E9%A2%98/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;没什么好说的&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;马上就要四月了&lt;/p&gt;&#xA;&lt;p&gt;现在是周日晚上&lt;/p&gt;&#xA;&lt;p&gt;只想吃杯面，我屯了很多&lt;/p&gt;&#xA;&lt;p&gt;修复进程&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>精神健康</title>
+      <link>http://localhost:1313/diary/%E5%A4%9C%E6%99%9A/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diary/%E5%A4%9C%E6%99%9A/</guid>
+      <description>&lt;h2 id=&#34;我的精神已经在另一个地方了&#34;&gt;我的精神已经在另一个地方了&lt;/h2&gt;&#xA;&lt;p&gt;下小雨的夜晚，窗户外的世界总是看起来那么向往，一望无际，我被遗忘在小时候的窗前，也是这么想着&lt;/p&gt;&#xA;&lt;p&gt;空中有淡淡的洗衣香味，雨味和些许烟味，远处的灯光闪烁着，大楼堆砌在一起，数不清的构造，如同迷宫般的玩乐&lt;/p&gt;&#xA;&lt;p&gt;唯有这种瞬间，才会让我觉得世界还没烂掉，世界很美好，世界不是孤独的&lt;/p&gt;&#xA;&lt;p&gt;手机拍出来的还没有我看的美，肉眼看的话，颜色会更丰富一点，但不张扬，远处的天空是灰暗的，带有淡粉的，远处&lt;/p&gt;&#xA;&lt;p&gt;的灯光会更加的丰富，像彩色的星星&lt;/p&gt;&#xA;&lt;p&gt;所以&lt;/p&gt;&#xA;&lt;p&gt;我进行了后期，让图片更接近我当时肉眼看到的效果&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/%E7%AA%97.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>廉价周边墙 限时出售</title>
+      <link>http://localhost:1313/diary/2026-3-22/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diary/2026-3-22/</guid>
+      <description>&lt;h2 id=&#34;这些都是我的回忆如你所见这并不是一个出售二手周边的帖子标题只是幌子&#34;&gt;这些都是我的回忆，如你所见，这并不是一个出售二手周边的帖子，标题只是幌子&lt;/h2&gt;&#xA;&lt;p&gt;☺☺&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/wall2.jpg&#34; alt=&#34;日记配图&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/wall1.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>物体</title>
+      <link>http://localhost:1313/art/%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%91%B8%E9%B1%BC/</link>
+      <pubDate>Sun, 22 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/art/%E7%9C%9F%E6%AD%A3%E7%9A%84%E6%91%B8%E9%B1%BC/</guid>
+      <description>&lt;h2 id=&#34;摸鱼&#34;&gt;摸鱼&lt;/h2&gt;&#xA;&lt;p&gt;这次是真的摸鱼，花了低于20分钟&lt;/p&gt;&#xA;&lt;p&gt;没有原型，只有即兴&lt;/p&gt;&#xA;&lt;p&gt;我希望我能越来越喜欢这样的练习，我能感觉到技力的提升&lt;/p&gt;&#xA;&lt;p&gt;……&lt;/p&gt;&#xA;&lt;p&gt;非说原型，也许就是内心的直觉——具象化&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/%E7%9C%9F%E6%91%B8%E9%B1%BC.png&#34; alt=&#34;配图&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>周末</title>
+      <link>http://localhost:1313/diary/2026-3-21/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diary/2026-3-21/</guid>
+      <description>&lt;h2 id=&#34;正文标题&#34;&gt;正文标题&lt;/h2&gt;&#xA;&lt;p&gt;今天和别人出去玩了，开心呢&lt;/p&gt;&#xA;&lt;p&gt;收货回忆与礼品&lt;/p&gt;&#xA;&lt;p&gt;说真的，孤独正在消逝也说不定&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/%E5%87%BA%E8%A1%8C1.jpg&#34; alt=&#34;日记配图&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/%E5%87%BA%E8%A1%8C2.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>分享歌曲-2</title>
+      <link>http://localhost:1313/diary/2026-3-20/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diary/2026-3-20/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://open.spotify.com/track/0WNIp28Cb8AotrFU8xSDk2?si=2abbfaac1fd94c9a&#34;&gt;https://open.spotify.com/track/0WNIp28Cb8AotrFU8xSDk2?si=2abbfaac1fd94c9a&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Spotify&#xA;递进式&lt;/p&gt;&#xA;&lt;p&gt;一台全速前进的？狂欢推进器&lt;/p&gt;&#xA;&lt;p&gt;分类：物理学&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>→联系我←（点击）</title>
+      <link>http://localhost:1313/about/readme/</link>
+      <pubDate>Thu, 19 Mar 2026 10:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/about/readme/</guid>
+      <description>&lt;h1 id=&#34;邮箱&#34;&gt;邮箱&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;mailto:createweb.cell@outlook.com&#34;&gt;createweb.cell@outlook.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;如果你想给我写一封信的话&lt;/p&gt;&#xA;&lt;p&gt;联系请署名，谢谢&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>分享歌曲</title>
+      <link>http://localhost:1313/diary/2026-03-19/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/diary/2026-03-19/</guid>
+      <description>&lt;h2&gt;&lt;a href=&#34;https://open.spotify.com/track/0Nx3qjIB7RQcU0AMKIiC7g?si=e682f0ce3c56459f&#34;&gt;https://open.spotify.com/track/0Nx3qjIB7RQcU0AMKIiC7g?si=e682f0ce3c56459f&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;花花&lt;/p&gt;&#xA;&lt;h2&gt;&lt;a href=&#34;https://music.163.com/song?id=3349601808&amp;amp;uct2=U2FsdGVkX1+YBlIXJOgQ7aIlOjNF9ERsyqkrUlStH20=&#34;&gt;https://music.163.com/song?id=3349601808&amp;amp;uct2=U2FsdGVkX1+YBlIXJOgQ7aIlOjNF9ERsyqkrUlStH20=&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;网易云&lt;/p&gt;</description>
+    </item>
     <item>
       <title>日常3.15</title>
-      <link>https://www.cellrin.xyz/diary/%E6%97%A5%E5%B8%B83-15/</link>
+      <link>http://localhost:1313/diary/%E6%97%A5%E5%B8%B83-15/</link>
       <pubDate>Sun, 15 Mar 2026 14:52:00 +0800</pubDate>
-      <guid>https://www.cellrin.xyz/diary/%E6%97%A5%E5%B8%B83-15/</guid>
-      <description>&lt;p&gt;在学校闲着没事画了个图&lt;/p&gt;&#xA;&lt;p&gt;我与世界的关系&lt;/p&gt;&#xA;&lt;h2&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/img_6673.png&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;实在是粗糙，只能是图一乐的存在&lt;/p&gt;&#xA;&lt;p&gt;……………………&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/img_6674.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;樱桃味果酒，喝起来像止咳糖浆，还好味道不算浓郁，应该可以用来调制，直接喝太一般了&lt;/p&gt;&#xA;&lt;p&gt;😿&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/%E6%97%A5%E5%B8%B83-15/</guid>
+      <description>&lt;p&gt;在学校闲着没事画了个图&lt;/p&gt;&#xA;&lt;p&gt;我与世界的关系&lt;/p&gt;&#xA;&lt;h2&gt;&lt;img src=&#34;http://localhost:1313/images/img_6673.png&#34; alt=&#34;&#34;&gt;&lt;/h2&gt;&#xA;&lt;p&gt;实在是粗糙，只能是图一乐的存在&lt;/p&gt;&#xA;&lt;p&gt;……………………&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/img_6674.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;樱桃味果酒，喝起来像止咳糖浆，还好味道不算浓郁，应该可以用来调制，直接喝太一般了&lt;/p&gt;&#xA;&lt;p&gt;😿&lt;/p&gt;</description>
     </item>
     <item>
       <title>日常</title>
-      <link>https://www.cellrin.xyz/diary/%E6%97%A5%E5%B8%B8/</link>
+      <link>http://localhost:1313/diary/%E6%97%A5%E5%B8%B8/</link>
       <pubDate>Sun, 15 Mar 2026 13:31:00 +0800</pubDate>
-      <guid>https://www.cellrin.xyz/diary/%E6%97%A5%E5%B8%B8/</guid>
-      <description>&lt;p&gt;我每天最想做的事就是躺在家里摸鱼&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/img_6520.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/%E6%97%A5%E5%B8%B8/</guid>
+      <description>&lt;p&gt;我每天最想做的事就是躺在家里摸鱼&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/img_6520.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>搬运</title>
-      <link>https://www.cellrin.xyz/diary/%E6%90%AC%E8%BF%90/</link>
+      <link>http://localhost:1313/diary/%E6%90%AC%E8%BF%90/</link>
       <pubDate>Sat, 14 Mar 2026 19:17:00 +0800</pubDate>
-      <guid>https://www.cellrin.xyz/diary/%E6%90%AC%E8%BF%90/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/img_6507.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;此帖为用于宣告，今后会陆续向网站搬运22至23年的个人语录&lt;/p&gt;&#xA;&lt;p&gt;或者其他的一些有趣的东西&lt;/p&gt;&#xA;&lt;p&gt;文体不限（为什么看起来像是考试写作要求）&lt;/p&gt;&#xA;&lt;p&gt;🤔&lt;/p&gt;&#xA;&lt;p&gt;会被逗笑吗？&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/img_6437.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/%E6%90%AC%E8%BF%90/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/img_6507.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;此帖为用于宣告，今后会陆续向网站搬运22至23年的个人语录&lt;/p&gt;&#xA;&lt;p&gt;或者其他的一些有趣的东西&lt;/p&gt;&#xA;&lt;p&gt;文体不限（为什么看起来像是考试写作要求）&lt;/p&gt;&#xA;&lt;p&gt;🤔&lt;/p&gt;&#xA;&lt;p&gt;会被逗笑吗？&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/img_6437.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我回来了！</title>
-      <link>https://www.cellrin.xyz/diary/%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86/</link>
+      <link>http://localhost:1313/diary/%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86/</link>
       <pubDate>Fri, 13 Mar 2026 23:43:00 +0800</pubDate>
-      <guid>https://www.cellrin.xyz/diary/%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86/</guid>
-      <description>&lt;p&gt;CMS终于解决了一切&lt;/p&gt;&#xA;&lt;p&gt;现在反而不知道该做什么了&lt;/p&gt;&#xA;&lt;p&gt;徒长的波斯菊😿&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/img_6627.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/%E6%88%91%E5%9B%9E%E6%9D%A5%E4%BA%86/</guid>
+      <description>&lt;p&gt;CMS终于解决了一切&lt;/p&gt;&#xA;&lt;p&gt;现在反而不知道该做什么了&lt;/p&gt;&#xA;&lt;p&gt;徒长的波斯菊😿&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/img_6627.jpeg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>荣誉</title>
-      <link>https://www.cellrin.xyz/diary/%E8%8D%A3%E8%AA%89/</link>
+      <link>http://localhost:1313/diary/%E8%8D%A3%E8%AA%89/</link>
       <pubDate>Thu, 12 Mar 2026 23:29:00 +0800</pubDate>
-      <guid>https://www.cellrin.xyz/diary/%E8%8D%A3%E8%AA%89/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;我要点名表扬gpt&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;-&amp;mdash;&amp;ndash;test&lt;/p&gt;&#xA;&lt;p&gt;图文无关&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/albedo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/%E8%8D%A3%E8%AA%89/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;我要点名表扬gpt&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;&amp;mdash;&amp;mdash;test&lt;/p&gt;&#xA;&lt;p&gt;图文无关&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/albedo.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>终于把cms搭起来了</title>
-      <link>https://www.cellrin.xyz/diary/%E7%BB%88%E4%BA%8E%E6%8A%8Acms%E6%90%AD%E8%B5%B7%E6%9D%A5%E4%BA%86/</link>
+      <link>http://localhost:1313/diary/%E7%BB%88%E4%BA%8E%E6%8A%8Acms%E6%90%AD%E8%B5%B7%E6%9D%A5%E4%BA%86/</link>
       <pubDate>Thu, 12 Mar 2026 23:01:00 +0800</pubDate>
-      <guid>https://www.cellrin.xyz/diary/%E7%BB%88%E4%BA%8E%E6%8A%8Acms%E6%90%AD%E8%B5%B7%E6%9D%A5%E4%BA%86/</guid>
+      <guid>http://localhost:1313/diary/%E7%BB%88%E4%BA%8E%E6%8A%8Acms%E6%90%AD%E8%B5%B7%E6%9D%A5%E4%BA%86/</guid>
       <description>&lt;p&gt;知道是谁把cms90%的坑都踩了一遍吗&lt;/p&gt;</description>
     </item>
     <item>
       <title>你好</title>
-      <link>https://www.cellrin.xyz/diary/2026-03-02/</link>
+      <link>http://localhost:1313/diary/2026-03-02/</link>
       <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2026-03-02/</guid>
-      <description>&lt;h2 id=&#34;正文标题&#34;&gt;正文标题&lt;/h2&gt;&#xA;&lt;p&gt;你好&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/midi.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/2026-03-02/</guid>
+      <description>&lt;h2 id=&#34;正文标题&#34;&gt;正文标题&lt;/h2&gt;&#xA;&lt;p&gt;你好&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/midi.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>看板娘绘制过程</title>
-      <link>https://www.cellrin.xyz/art/artsteps/</link>
+      <link>http://localhost:1313/art/artsteps/</link>
       <pubDate>Sun, 01 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/art/artsteps/</guid>
-      <description>&lt;h2 id=&#34;过程&#34;&gt;过程&lt;/h2&gt;&#xA;&lt;p&gt;过程&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/steps.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/art/artsteps/</guid>
+      <description>&lt;h2 id=&#34;过程&#34;&gt;过程&lt;/h2&gt;&#xA;&lt;p&gt;过程&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/steps.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我卸载了荒野乱斗</title>
-      <link>https://www.cellrin.xyz/diary/2026-2-27/</link>
+      <link>http://localhost:1313/diary/2026-2-27/</link>
       <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2026-2-27/</guid>
+      <guid>http://localhost:1313/diary/2026-2-27/</guid>
       <description>&lt;h2 id=&#34;再见了荒野乱斗这个令我伤心的游戏&#34;&gt;再见了荒野乱斗这个令我伤心的游戏&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;傻逼supercell&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>finally</title>
-      <link>https://www.cellrin.xyz/diary/2026-2-26/</link>
+      <link>http://localhost:1313/diary/2026-2-26/</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2026-2-26/</guid>
-      <description>&lt;h2 id=&#34;圆梦了&#34;&gt;圆梦了&lt;/h2&gt;&#xA;&lt;p&gt;阿贝多！！！！&#xA;家底83抽，3个限定&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/gacha2026-2-25.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/2026-2-26/</guid>
+      <description>&lt;h2 id=&#34;圆梦了&#34;&gt;圆梦了&lt;/h2&gt;&#xA;&lt;p&gt;阿贝多！！！！&#xA;家底83抽，3个限定&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/gacha2026-2-25.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>重大更新！</title>
-      <link>https://www.cellrin.xyz/diary/major-updates/</link>
+      <link>http://localhost:1313/diary/major-updates/</link>
       <pubDate>Thu, 26 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/major-updates/</guid>
-      <description>&lt;h2 id=&#34;cellrinxyz域名更新&#34;&gt;cellrin.xyz域名更新！&lt;/h2&gt;&#xA;&lt;p&gt;将链接从github仓库变成了自定义域名&lt;/p&gt;&#xA;&lt;p&gt;以后可以直接输入cellrin.xyz 或 &lt;a href=&#34;https://www.cellrin.xyz&#34;&gt;www.cellrin.xyz&lt;/a&gt;访问了！&lt;/p&gt;&#xA;&lt;p&gt;↓贝贝↓（无关但重要的内容）(〃&amp;rsquo;▽&amp;rsquo;〃)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/albedo.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/major-updates/</guid>
+      <description>&lt;h2 id=&#34;cellrinxyz域名更新&#34;&gt;cellrin.xyz域名更新！&lt;/h2&gt;&#xA;&lt;p&gt;将链接从github仓库变成了自定义域名&lt;/p&gt;&#xA;&lt;p&gt;以后可以直接输入cellrin.xyz 或 &lt;a href=&#34;https://www.cellrin.xyz&#34;&gt;www.cellrin.xyz&lt;/a&gt;访问了！&lt;/p&gt;&#xA;&lt;p&gt;↓贝贝↓（无关但重要的内容）(〃&amp;rsquo;▽&amp;rsquo;〃)&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/albedo.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>更新日志</title>
-      <link>https://www.cellrin.xyz/diary/2026-2-22update/</link>
+      <link>http://localhost:1313/diary/2026-2-22update/</link>
       <pubDate>Sun, 22 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2026-2-22update/</guid>
-      <description>&lt;h1 id=&#34;重大更新&#34;&gt;重大更新——&lt;/h1&gt;&#xA;&lt;p&gt;1.网站看板娘登陆&#xA;2.修复banner在详情显示异常的问题(其实根本没修已摆烂）&#xA;&lt;img src=&#34;https://www.cellrin.xyz/images/og-image1.png&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/2026-2-22update/</guid>
+      <description>&lt;h1 id=&#34;重大更新&#34;&gt;重大更新——&lt;/h1&gt;&#xA;&lt;p&gt;1.网站看板娘登陆&#xA;2.修复banner在详情显示异常的问题(其实根本没修已摆烂）&#xA;&lt;img src=&#34;http://localhost:1313/images/og-image1.png&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>更新日志</title>
-      <link>https://www.cellrin.xyz/diary/2026-2-21updatediary/</link>
+      <link>http://localhost:1313/diary/2026-2-21updatediary/</link>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2026-2-21updatediary/</guid>
-      <description>&lt;h1 id=&#34;修复一些已知问题&#34;&gt;修复一些已知问题&lt;/h1&gt;&#xA;&lt;p&gt;1.修改baseof.html ico code &amp;ndash;如果你是电脑端你会在网页窗口看到一个很小的头像&#xA;2.再再再次修改workflows（超烦人）&#xA;3.修复部分文件冲突&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/og-image.png&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/2026-2-21updatediary/</guid>
+      <description>&lt;h1 id=&#34;修复一些已知问题&#34;&gt;修复一些已知问题&lt;/h1&gt;&#xA;&lt;p&gt;1.修改baseof.html ico code &amp;ndash;如果你是电脑端你会在网页窗口看到一个很小的头像&#xA;2.再再再次修改workflows（超烦人）&#xA;3.修复部分文件冲突&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/og-image.png&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>麦麦德堡</title>
-      <link>https://www.cellrin.xyz/diary/2-21/</link>
+      <link>http://localhost:1313/diary/2-21/</link>
       <pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2-21/</guid>
+      <guid>http://localhost:1313/diary/2-21/</guid>
       <description>&lt;h1 id=&#34;都给我去吃麦麦德堡&#34;&gt;都给我去吃麦麦德堡&lt;/h1&gt;&#xA;&lt;p&gt;甚香&lt;/p&gt;</description>
     </item>
     <item>
       <title>修改了分支路径</title>
-      <link>https://www.cellrin.xyz/diary/2-20/</link>
+      <link>http://localhost:1313/diary/2-20/</link>
       <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2-20/</guid>
-      <description>&lt;h2 id=&#34;唇笔一个&#34;&gt;唇笔一个&lt;/h2&gt;&#xA;&lt;p&gt;智商堪比奶龙，豆包你是这个&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/mikeloog.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/2-20/</guid>
+      <description>&lt;h2 id=&#34;唇笔一个&#34;&gt;唇笔一个&lt;/h2&gt;&#xA;&lt;p&gt;智商堪比奶龙，豆包你是这个&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mikeloog.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>哎哟卧槽这破网站修死我了</title>
-      <link>https://www.cellrin.xyz/diary/2.17/</link>
+      <link>http://localhost:1313/diary/2.17/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2.17/</guid>
-      <description>&lt;h2 id=&#34;神人了&#34;&gt;神人了&lt;/h2&gt;&#xA;&lt;p&gt;我好笨2333333怎么这么痛苦&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/mikeloog.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/diary/2.17/</guid>
+      <description>&lt;h2 id=&#34;神人了&#34;&gt;神人了&lt;/h2&gt;&#xA;&lt;p&gt;我好笨2333333怎么这么痛苦&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/mikeloog.jpg&#34; alt=&#34;日记配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>摸鱼</title>
-      <link>https://www.cellrin.xyz/art/test0/</link>
+      <link>http://localhost:1313/art/test0/</link>
       <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/art/test0/</guid>
-      <description>&lt;h2 id=&#34;摸鱼&#34;&gt;摸鱼&lt;/h2&gt;&#xA;&lt;p&gt;摸鱼作品，顺便测试网页&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://www.cellrin.xyz/images/idea8.jpg&#34; alt=&#34;配图&#34;&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/art/test0/</guid>
+      <description>&lt;h2 id=&#34;摸鱼&#34;&gt;摸鱼&lt;/h2&gt;&#xA;&lt;p&gt;摸鱼作品，顺便测试网页&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/idea8.jpg&#34; alt=&#34;配图&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>我的第一篇日记</title>
-      <link>https://www.cellrin.xyz/diary/2026-02-13/</link>
+      <link>http://localhost:1313/diary/2026-02-13/</link>
       <pubDate>Fri, 13 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>https://www.cellrin.xyz/diary/2026-02-13/</guid>
+      <guid>http://localhost:1313/diary/2026-02-13/</guid>
       <description>&lt;h1 id=&#34;终于建好我的动态博客啦&#34;&gt;终于建好我的动态博客啦&lt;/h1&gt;&#xA;&lt;p&gt;今天折腾了好久，终于把博客的骨架搭起来了&lt;/p&gt;&#xA;&lt;h2 id=&#34;成就&#34;&gt;成就&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;搞定了Banner图和背景图的显示问题&lt;/li&gt;&#xA;&lt;li&gt;搭好了Hugo的模板结构&lt;/li&gt;&#xA;&lt;li&gt;写了第一篇日记&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;感慨&#34;&gt;感慨&lt;/h2&gt;&#xA;&lt;p&gt;原来做动态博客没有想象中那么简单&lt;/p&gt;&#xA;&lt;p&gt;以后会在这里记录我的生活和创作&lt;/p&gt;</description>
     </item>
   </channel>
